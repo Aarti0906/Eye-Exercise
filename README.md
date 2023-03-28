@@ -1,4 +1,5 @@
 # Eye-Exercise
+<img src= "eyes.jpeg" width = '300'/>
 
 ## Description
 Hello, This is an assignment where the both eyes shoould  follow the mouse position on the screen using the mouse events.
